@@ -1,22 +1,26 @@
+Template Parser Class
+---------------------
 
 NAME  : TemplateParser - The PHP Template Parser Class
-AUTHOR	: Ahaddin Gani Arzak
+AUTHOR: Ahaddin Gani Arzak
 EMAIL	: admin@agacry.com or agacrycom@gmail.com
 LINK	: http://www.agacry.com/
 
 
-== DESCRIPTION ==
+Description
+-----------
 
 Class TemplateParser adalah class PHP yang digunakan untuk memproses variabel
 yang diatur pada file konfigurasi (controller) yang kemudian ditampilkan pada file template.
 
--------------------------------------------------------------------------------------
+----------
 
 TemplateParser Class is a PHP class used to process variable which is set in
 the configuration file (controller) then displayed in the template file.
 
 
-== FEATURES ==
+Features
+--------
 
 *	support multidimensional variables.
 *	configurable template delimiter tag syntax, so you can use {}, {{}}, <!--{}-->, or whatever you like.
@@ -24,7 +28,8 @@ the configuration file (controller) then displayed in the template file.
 *	and more.
 
 
-== COPYRIGHT ==
+Copyright
+---------
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
