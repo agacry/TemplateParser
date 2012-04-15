@@ -2,9 +2,12 @@ Template Parser Class
 ---------------------
 
 NAME  : TemplateParser - The PHP Template Parser Class
+
 AUTHOR: Ahaddin Gani Arzak
-EMAIL	: admin@agacry.com or agacrycom@gmail.com
-LINK	: http://www.agacry.com/
+
+EMAIL	: [admin@agacry.com](mailto:admin@agacry.com "Site Email") or [agacrycom@gmail.com](mailto:agacrycom@gmail.com "Gmail")
+
+LINK	: [www.AgaCry.com](http://www.agacry.com/ "Author Site")
 
 
 Description
