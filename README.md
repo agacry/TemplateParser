@@ -1,13 +1,13 @@
-Template Parser Class
+[Template Parser Class](https://github.com/agacry/TemplateParser/ "Template Parser Class")
 ---------------------
 
-NAME  : TemplateParser - The PHP Template Parser Class
+Name  : TemplateParser - The PHP Template Parser Class
 
-AUTHOR: Ahaddin Gani Arzak
+Author: Ahaddin Gani Arzak
 
-EMAIL	: [admin@agacry.com](mailto:admin@agacry.com "Site Email") or [agacrycom@gmail.com](mailto:agacrycom@gmail.com "Gmail")
+Email	: [admin@agacry.com](mailto:admin@agacry.com "Site Email") or [agacrycom@gmail.com](mailto:agacrycom@gmail.com "Gmail")
 
-LINK	: [www.AgaCry.com](http://www.agacry.com/ "Author Site")
+Link	: [www.AgaCry.com](http://www.agacry.com/ "Author Site")
 
 
 Description
