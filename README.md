@@ -15,11 +15,15 @@ Description
 
 Class TemplateParser adalah class PHP yang digunakan untuk memproses variabel
 yang diatur pada file konfigurasi (controller) yang kemudian ditampilkan pada file template.
+Menggunakan class template parser ini Anda bisa dengan mudah menyimpan dan mengatur template aplikasi web Anda.
+Ini akan mempermudah dalam membuat sistem template di PHP.
 
 ----------
 
 TemplateParser Class is a PHP class used to process variable which is set in
 the configuration file (controller) then displayed in the template file.
+Using this template parser class you can simply store and manage your web application templates.
+It is easy to create a templating system in PHP.
 
 
 Features
