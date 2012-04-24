@@ -4,9 +4,9 @@
  * Template Parser Class
  * 
  * @category	Parser
- * @author		Ahaddin Gani Arzak
- * @email		admin@agacrycom
- * @link		http://www.agacry.com
+ * @author	Ahaddin Gani Arzak
+ * @email	admin@agacrycom
+ * @link	http://www.agacry.com
  * @reference	CodeIgniter, Smarty
  */
 class TemplateParser
@@ -66,23 +66,6 @@ class TemplateParser
 	{
 		if (!empty($_ext))
 			$this->_ext	= $_ext;
-	}
-	
-	/**
-	 * Clean up variables inside the class script
-	 *
-	 * @access	public
-	 * @param	void
-	 * @return	void
-	 */
-	public function __destruct()
-	{
-		if ( isset($this) ) :
-			
-			foreach ($this as $key => $val)
-				unset($this->$key);
-			
-		endif;
 	}
 	
 	/**
@@ -205,6 +188,23 @@ class TemplateParser
 			fclose($file);
 		endif;
 		
+	}
+	
+	/**
+	 * Clean up variables inside the class script
+	 *
+	 * @access	public
+	 * @param	void
+	 * @return	void
+	 */
+	public function __destruct()
+	{
+		if ( isset($this) ) :
+			
+			foreach ($this as $key => $val)
+				unset($this->$key);
+			
+		endif;
 	}
 }
 ?>
